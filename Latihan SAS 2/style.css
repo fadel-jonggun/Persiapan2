@@ -1,0 +1,194 @@
+@import url('https://v1.fontapi.ir/css/SFProDisplay:300;600;800');
+
+body{
+    background-color: black;
+}
+#max{
+    width: 100%;
+    height: 720px;
+    background-color: black;
+}
+.flag p{
+    color: white;
+    margin-left: 10px;
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+}
+.flag span{
+    font-weight: 800;
+}
+.flag{
+    display: flex;
+    margin-bottom: -40px;
+}
+.bungkus{
+    width: 100%;
+    height: 520px;
+    display: flex;
+    justify-content: center;
+}
+.ghana{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+}
+.img-g{
+    width: 50%;
+}
+.buy{
+  padding-right: 90px;  
+}
+.buy h1{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 800;
+    color: white;
+    font-size: 60px;
+}
+.real{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 20px;
+    margin-top: -40px;
+}
+.use{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 20px;
+    margin-top: -30px;
+    padding-right: 180px;
+}
+.use span{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 800;
+}
+.bttn{
+    display: flex;
+}
+.btn-1 button{
+    border: none;
+    border-radius: 30px;
+    padding: 20px 30px 20px 30px;
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+    background-color: white;
+}
+.btn-2 button{
+    border: none;
+    border-radius: 30px;
+    padding: 20px 30px 20px 30px;
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+    background-color: white;
+    margin-left: 20px;
+}
+
+.chez{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.shield{
+    display: flex;
+}
+.shield img{
+    margin-top: 13px;
+}
+.shield p{
+    margin-left: 10px;
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: white;
+}
+.img-s img{
+    margin-right: 7px;
+}
+.left{
+    margin-left: 40px;
+    margin-right: 80px;
+}
+.right{
+    width: 35%;
+    margin-left: 10px;
+}
+.ed{
+    color: white;
+}
+.sell{
+    display: flex;
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: -6px;
+}
+.here{
+    font-size: 16px;
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    margin-top: -25px;
+}
+.duit{
+    display: flex;
+    color: white;
+}
+.empat-enam{
+    display: flex;
+    flex-direction: column;
+    line-height: 1px;
+    padding-right: 20px;
+    border-right: 1px solid white;
+}
+.empat-enam h1{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+.empat-enam p{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+
+
+.enam{
+    display: flex;
+    flex-direction: column;
+    line-height: 1px;
+    margin-left: 20px;
+    padding-right: 20px;
+    border-right: 1px solid white;
+}
+.enam h1{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+.enam p{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+
+
+.empat{
+    display: flex;
+    flex-direction: column;
+    line-height: 1px;
+    margin-left: 20px;
+}
+.empat h1{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+.empat p{
+    font-family: SF Pro Display, sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+}
